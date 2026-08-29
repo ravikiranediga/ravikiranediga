@@ -114,31 +114,51 @@ https://ravikiranediga-github-io.vercel.app/
 ---
 
 ## 🚀 Featured Projects
-
-### 🤖 Enterprise Contract Risk & Compliance Auditor
-
-AI-powered contract analysis platform that identifies legal risks, compliance violations, missing clauses, and risk scores using RAG and Machine Learning.
-
 ### 📧 AI Email Assistant
 
 Generate professional emails using FastAPI, Streamlit, SQLite and Gemini API.
+
+🔗 GitHub:
+https://github.com/ravikiranediga/AI_Email_Assistant
+
+🔗 Live Demo:
+https://ai-email-assistant-gemini.streamlit.app/
+
+---
 
 ### 📝 LLM Writer Critic System
 
 Multi-agent AI application implementing writer and critic workflows using LLMs.
 
+🔗 GitHub:
+https://github.com/ravikiranediga/llm-writer-critic-system
+
+---
+
 ### 📄 AI Resume Analyzer
 
 Analyze resumes using NLP techniques and ATS scoring.
+
+🔗 GitHub:
+https://github.com/ravikiranediga/AI_BASED_RESUME_ANALYZER
+
+---
 
 ### 📈 Sales Demand Forecasting System
 
 Predict future sales trends using Machine Learning and forecasting models.
 
+🔗 GitHub:
+https://github.com/ravikiranediga/Sales_Demand_Forecasting_System
+
+---
+
 ### 💳 Credit Risk Fraud Detection
 
 Explainable AI-based risk prediction system with intelligent risk categorization.
 
+🔗 GitHub:
+https://github.com/ravikiranediga/credit-risk-fraud-detection-xai
 ---
 ## 📊 GitHub Analytics
 
