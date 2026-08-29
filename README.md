@@ -10,13 +10,6 @@ AI Engineer | Python Developer | Generative AI Enthusiast
 
 ...
 
-
-<h1 align="center">Hi 👋, I'm E Ravi Kiran</h1>
-
-<h3 align="center">
-AI Engineer | Python Developer | Generative AI Enthusiast
-</h3>
-
 <p align="center">
 Building AI Applications, RAG Systems, Machine Learning Solutions and Backend APIs.
 </p>
