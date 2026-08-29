@@ -202,9 +202,8 @@ AI-powered contract analysis platform using RAG and Machine Learning.
 
 <a href="https://github.com/ravikiranediga">
 <img src="https://skillicons.dev/icons?i=github" />
-</a>
 
-<a href="PASTE_YOUR_LINKEDIN_URL_HERE">
+<a href="https://www.linkedin.com/in/ravikiranediga">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
