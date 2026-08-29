@@ -178,7 +178,7 @@ AI-powered contract analysis platform using RAG and Machine Learning.
 
 🏅 100+ Coding Problems Solved
 
-🏅 AI/ML Intern – Axcentra
+🏅 AI/ML Intern – Axcentra 
 
 ---
 
