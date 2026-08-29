@@ -5,7 +5,11 @@ AI Engineer | Python Developer | Generative AI Enthusiast
 </h3>
 
 <p align="center">
-Building AI Applications, Machine Learning Solutions, RAG Systems, and Backend APIs.
+Building AI Applications, RAG Systems, Machine Learning Solutions and Backend APIs.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;FastAPI+Developer;Generative+AI+Enthusiast;LangChain+%7C+RAG+Systems;Machine+Learning+Developer" />
 </p>
 
 ---
@@ -16,125 +20,127 @@ Building AI Applications, Machine Learning Solutions, RAG Systems, and Backend A
 
 💻 Passionate about AI Engineering, Backend Development, and Generative AI
 
-🌱 Currently Learning:
+🌱 Currently Exploring
+
 - Advanced LangChain
 - Multi-Agent AI Systems
 - RAG Architectures
+- LLM Applications
 - FastAPI Backend Development
 
-🎯 Career Goal:
-Become an AI Engineer building production-ready intelligent applications.
+🎯 Goal
+
+Build production-grade AI applications that solve real-world business problems.
 
 📍 Andhra Pradesh, India
 
 📧 Email: ravikirangowd91@gmail.com
 
-🌐 Portfolio: https://ravikiranediga-github-io.vercel.app/
+🌐 Portfolio:
+https://ravikiranediga-github-io.vercel.app/
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 🎨 Frontend Development
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ---
 
-### ⚙️ Backend Development
+### Frontend Development
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-
----
-
-### 🤖 AI / Machine Learning
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF9800?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6A1B9A?style=for-the-badge)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48"/>
+</p>
 
 ---
 
-### 📊 Data Science Libraries
+### Backend Development
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
----
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
 
 ---
 
-### 🛠 Tools & Platforms
+### AI / Machine Learning
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="left">
+<img src="https://cdn.simpleicons.org/numpy" width="48"/>
+<img src="https://cdn.simpleicons.org/pandas" width="48"/>
+<img src="https://cdn.simpleicons.org/scikitlearn" width="48"/>
+</p>
+
+**Machine Learning • Generative AI • LangChain • RAG • Prompt Engineering**
 
 ---
+
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
+
+---
+
+### Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=vercel" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🤖 Enterprise Contract Risk & Compliance Auditor
 
 AI-powered contract analysis platform that identifies legal risks, compliance violations, missing clauses, and risk scores using RAG and Machine Learning.
 
----
-
 ### 📧 AI Email Assistant
 
-Generate professional emails using FastAPI, Streamlit, SQLite, and Gemini API.
+Generate professional emails using FastAPI, Streamlit, SQLite and Gemini API.
 
----
+### 📝 LLM Writer Critic System
+
+Multi-agent AI application implementing writer and critic workflows using LLMs.
 
 ### 📄 AI Resume Analyzer
 
 Analyze resumes using NLP techniques and ATS scoring.
 
----
-
 ### 📈 Sales Demand Forecasting System
 
 Predict future sales trends using Machine Learning and forecasting models.
 
----
+### 💳 Credit Risk Fraud Detection
 
-### 💳 Credit Risk Fraud Detection System
-
-Explainable AI-based risk prediction system with risk categorization.
+Explainable AI-based risk prediction system with intelligent risk categorization.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=ravikiranediga&show_icons=true&theme=github_dark)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ravikiranediga&theme=github-dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravikiranediga&layout=compact&theme=github_dark)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ravikiranediga&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikiranediga&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
@@ -144,22 +150,28 @@ Explainable AI-based risk prediction system with risk categorization.
 
 🏅 HackerRank Gold Badge
 
-🏅 AI & Machine Learning Project Developer
+🏅 Built Multiple AI & Machine Learning Applications
+
+🏅 100+ Coding Problems Solved
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="left">
+
 <a href="https://github.com/ravikiranediga">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
 </p>
 
 ---
 
-⭐ Always exploring AI, Machine Learning, FastAPI, LangChain, and Generative AI.
+<p align="center">
+⭐ Building AI Applications • FastAPI APIs • LangChain Solutions • Machine Learning Projects
+</p>
