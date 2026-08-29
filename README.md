@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="assets/Ravi-banner.pdf" alt="Banner">
+</p>
+
+<h1 align="center">Hi 👋, I'm E Ravi Kiran</h1>
+
+<h3 align="center">
+AI Engineer | Python Developer | Generative AI Enthusiast
+</h3>
+
+...
+
+
 <h1 align="center">Hi 👋, I'm E Ravi Kiran</h1>
 
 <h3 align="center">
