@@ -15,7 +15,7 @@ Building AI Applications, RAG Systems, Machine Learning Solutions and Backend AP
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;FastAPI+Developer;Generative+AI+Enthusiast;LangChain+%7C+RAG+Systems;Machine+Learning+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Generative+AI+Enthusiast;LangChain+%7C+RAG+Systems;Machine+Learning+Developer" />
 </p>
 
 ---
