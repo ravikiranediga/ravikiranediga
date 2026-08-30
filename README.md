@@ -1,6 +1,6 @@
 <p align="center">
   <img src="assets/banner.png" alt="E Ravi Kiran Banner">
-</p>
+</p> 
 
 <h1 align="center">Hi 👋, I'm E Ravi Kiran</h1>
 
